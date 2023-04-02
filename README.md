@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **sajalhowlader08@gmail.com**
 </div>
-  <img width="400" align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="antu13az" /> </div>
+<div align="right"></div>
+  <img width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="antu13az" /> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
