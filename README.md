@@ -1,9 +1,13 @@
 <div><img src="https://media.licdn.com/dms/image/C4E16AQFiXUgvkRKylg/profile-displaybackgroundimage-shrink_350_1400/0/1654701783163?e=1686182400&v=beta&t=L6PcY_HmXPZ5hwQ9KxfeVRkgnfpQuhaDTEbn3A7pG-g" alt="" /></div>
- <h1 align="center">Hi 👋, I'm Sajal Howlader</h1>
+ 
+<div >
+  <div>
+  <h1 align="center">Hi 👋, I'm Sajal Howlader</h1>
 <h3 align="center">A passionate full-stack from Bangladesh</h3>
 
-<div > 
-<div align="left">
+  </div>
+   <img width="400"  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="antu13az" /> </div>
+<div>
 
 - 🌱 I’m currently learning **Node.js TypeScript**
 
@@ -13,8 +17,6 @@
 
 - 📫 How to reach me **sajalhowlader08@gmail.com**
 </div>
-<div align="right"></div>
-  <img width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="antu13az" /> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
