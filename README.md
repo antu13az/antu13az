@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sajal Howlader</h1>
 <h3 align="center">A passionate full-stack from Bangladesh</h3>
 
-<p align="right"> <img width="400"  style="border-radius:5px;" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="antu13az" /> </p>
+<p align="right"> <img width="400"  style="border-radius: 10px;" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="antu13az" /> </p>
 
 - 🌱 I’m currently learning **Node.js TypeScript**
 
