@@ -1,3 +1,4 @@
+<div><img src="https://media.licdn.com/dms/image/C4E16AQFiXUgvkRKylg/profile-displaybackgroundimage-shrink_350_1400/0/1654701783163?e=1686182400&v=beta&t=L6PcY_HmXPZ5hwQ9KxfeVRkgnfpQuhaDTEbn3A7pG-g" alt="" /></div>
  <h1 align="center">Hi 👋, I'm Sajal Howlader</h1>
 <h3 align="center">A passionate full-stack from Bangladesh</h3>
 
@@ -28,5 +29,5 @@
 
 <div >
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antu13az&show_icons=true&locale=en&layout=compact" alt="antu13az" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antu13az&show_icons=true&locale=en&layout=compact" alt="antu13az" />
 </div>
